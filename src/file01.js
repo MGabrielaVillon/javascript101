@@ -5,6 +5,7 @@
  * Referencia: https://javascript.info/strict-mode
  */
 
+"use strict"
 
 
 /** 
