@@ -27,3 +27,9 @@
 
 // TO-DO: Llama a la función setTitle para establecer el contenido del elemento HTML con el ID especificado
 
+import { setTitle } from "./functions.js";
+
+const pageTitle = "Datos comparativos de frameworks JavaScript modernos";
+const pageId = "title";
+
+setTitle(pageId, pageTitle);
