@@ -45,7 +45,7 @@ const addRow = (data, idBodyTable) => {
         !data?.releaseDate?.trim() ||
         !data?.usersName?.trim() ||
         !data?.popularityPercentage?.trim()
-) {
+    ) {
         console.warn("El objeto 'data' no tiene las propiedades esperadas.");
         return;
     }
