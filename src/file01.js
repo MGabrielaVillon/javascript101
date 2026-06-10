@@ -21,11 +21,16 @@
  * Asigne a la variable local pageTitle (título de la página) con el valor: "Datos comparativos de frameworks JavaScript modernos"
  * Asigne a la variable local pageId (ID del elemento HTML donde se mostrará el título) con el valor: "title".
  * Referencia: https://javascript.info/variables
+ * 
+ * npm install
+npm run dev
  */
 
 
 
 // TO-DO: Llama a la función setTitle para establecer el contenido del elemento HTML con el ID especificado
+
+
 
 import { setTitle } from "./functions.js";
 
